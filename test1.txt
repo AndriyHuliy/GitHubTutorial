@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 some text
 next line
 one more line
+=======
+two lines
+
+>>>>>>> c0b66979d568dc73d9ef51f9ae939de895087c01
